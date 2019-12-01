@@ -40,3 +40,5 @@ Click on "Master" in the top panel. Then click on "New Branch". **Never directly
 Give the new branch your name. Then click "Create Branch".
 
 ![](images/step7.png)
+
+Publish your branch online.
