@@ -15,7 +15,7 @@ Go to the relevant repo page on GitHub and click on the "Clone or download" butt
 
 ![](images/step1.png)
 
-And choose "Open in Desktop".
+Choose "Open in Desktop".
 
 ![](images/step2.png)
 
