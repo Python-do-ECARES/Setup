@@ -13,12 +13,12 @@ Each class has its own repository. You can find it under the [course homepage](h
 ### Step 1. Clone repository
 Go to the relevant repo page on GitHub and click on the "Clone or download" button.
 
-![](images/step1.1.png)
+![](images/step1.png)
 
 And choose "Open in Desktop".
 
-![](images/step1.2.png)
+![](images/step2.png)
 
 This will open a window in your GitHub Desktop environment. Check the local path where to clone the repo and click "Clone".
 
-![](images/step1.3.png)
+![](images/step3.png)
