@@ -22,3 +22,21 @@ Choose "Open in Desktop".
 This will open a window in your GitHub Desktop environment. Check the local path where to clone the repo and click "Clone".
 
 ![](images/step3.png)
+
+### Step 2. Make Changes
+Open the file "Main_init.py" in your favourite compiler (e.g. VS Code). Add a comment line with your name.
+
+![](images/step4.png)
+
+Save the file. Changes will be displayed in GitHub Desktop as follows.
+
+![](images/step5.png)
+
+### Step 3. Create Your Own Branch And Commit Changes
+Click on "Master" in the top panel. Then click on "New Branch". **Never directly commit your changes to the Master**.
+
+![](images/step6.png)
+
+Give the new branch your name. Then click "Create Branch".
+
+![](images/step7.png)
