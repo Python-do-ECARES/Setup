@@ -33,7 +33,7 @@ Save the file. Changes will be displayed in GitHub Desktop as follows.
 ![](images/step5.png)
 
 ### Step 3. Create Your Own Branch And Commit Changes
-Click on "Master" in the top panel. Then click on "New Branch". 
+Click on "Master" in the top panel. Then click on "New Branch". **Never directly commit your changes to the Master**.
 
 ![](images/step6.png)
 
@@ -49,15 +49,22 @@ Publish your branch online.
 
 ![](images/step9.png)
 
-Commit changes to your branch. **Never directly commit your changes to the Master**.
+Commit changes to your branch. 
 
 ![](images/step10.png)
 
-Your directory will now appear under the repo GitHub webpage as follows
+Push changes to your branch.
+
+![](images/step11.png)
+
+Your directory will now appear under the repo GitHub webpage as follows.
 
 ![](images/step12.png)
 
 ### Step 4. Next Steps
-From now on, you can commit your chanes to your own branch anytime you want. You can also navigate to other people branches and see what they are up to. Do not commit to their branches directly. Instead, you can open a pull request.
+From now on, you can commit your chanes to your own branch anytime you want. You can also navigate to other people branches and see what they are up to. **Do not commit to their branches directly**. Instead, you can open a pull request to collaborate.
+
+## When and How to Commit and Push
+
 
 
