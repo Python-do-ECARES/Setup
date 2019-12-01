@@ -10,6 +10,15 @@ In this course, we interact with GitHub through the GitHub Desktop application. 
 ## Class Organization
 Each class has its own repository. You can find it under the [course homepage](https://github.com/Python-do-ECARES). In order to work on the weekly exercises, please follow the following instructions. 
 
-### Step 1
+### Step 1. Clone repository
+Go to the relevant repo page on GitHub and click on the "Clone or download" button.
 
- 
+![](images/step1.1.png)
+
+And choose "Open in Desktop".
+
+![](images/step1.2.png)
+
+This will open a window in your GitHub Desktop environment. Check the local path where to clone the repo and click "Clone".
+
+![](images/step1.3.png)
