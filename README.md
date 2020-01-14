@@ -15,8 +15,8 @@ We will use Jupyter notebooks as the main graphical interface to Python througho
 ## Git, GitHub, GitHub Desktop
 Git is a *version control system*, i.e. a way to keep track of the whole history of things you do on a file. It is useful to save, manage and edit all the different versions of your project. GitHub is a web service that allows to conveniently work with Git. It allows you to create your own directories, see projects of other people and collaborate with them. There are [four subscription plans](https://github.com/pricing) to GitHub. We will work with the free one, which implies that *everybody* on GitHub can see our codes. However, with your academic email account, you can get a Pro account for free and create [private repositories](https://help.github.com/en/github/administering-a-repository/setting-repository-visibility#making-a-repository-public) as well. You can read more about GitHub [here](https://medium.com/@abhishekj/an-intro-to-git-and-github-1a0e2c7e3a2f) and [here](https://medium.com/launch-school/understanding-git-and-github-8ac987877a5).
 
-## Installing GitHub Desktop
-In this course, we interact with GitHub through the GitHub Desktop application. Download and install (GitHub Desktop)[https://desktop.github.com] on your computer. The installation process creates a folder named "GitHub". Make sure to know where it is located on your computer and/or change its directory where you prefer (e.g. Desktop).
+### Setting up your GitHub environment
+In this course, we interact with GitHub through the GitHub Desktop application. In [Session 2](https://github.com/Python-do-ECARES/Classes) we discuss how to do it. **Please follow the steps below before the beginning of the course**
 
-## Class Organization
-Each class has its own repository. You can find it under the [course homepage](https://github.com/Python-do-ECARES). In order to work on the weekly exercises, please follow the following instructions. 
+
+Download and install (GitHub Desktop)[https://desktop.github.com] on your computer. The installation process creates a folder named "GitHub". Make sure to know where it is located on your computer and/or change its directory where you prefer (e.g. Desktop).
