@@ -19,5 +19,5 @@ Git is a *version control system*, i.e. a way to keep track of the whole history
 In this course, we interact with GitHub mostly through the GitHub Desktop application. In [Session 2](https://github.com/Python-do-ECARES/Classes) we discuss how to do it. For the moment, you can set up your own GitHub environment by following the steps below. **Please, make sure to do it before the beginning of the course**.
 
 - **Step 1**. Create your own github account [here](https://github.com/).
-- **Step2** . Download [GitHub Desktop](https://desktop.github.com) on your computer.  The installation process creates a folder named "GitHub". Make sure to know where it is located and/or change its directory where you prefer (e.g. Desktop).
+- **Step 2** . Download [GitHub Desktop](https://desktop.github.com) on your computer.  The installation process creates a folder named "GitHub". Make sure to know where it is located and/or change its directory where you prefer (e.g. Desktop).
 
