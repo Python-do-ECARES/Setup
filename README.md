@@ -6,9 +6,9 @@ Python is a general programming language. To use it best for data science and ec
 
 - **Step 1**. Download Anaconda [here](https://www.anaconda.com/distribution/).
 - **Step 2**. Launch Anaconda and select Jupyter notebook or Jupyterlab.
-![](Setup/images/step1.png)
+![](/images/step1.png)
 This is how a notebook looks like.
-![](Setup/images/step2.png)
+![](/images/step2.png)
 
 We will use Jupyter notebooks as the main graphical interface to Python throughout the course. You can read more about how to install Anaconda [here](https://python.quantecon.org/getting_started.html). You can read about other popular Python IDEs [here](https://www.datacamp.com/community/tutorials/top-python-ides-for-2019).
 
