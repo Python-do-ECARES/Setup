@@ -2,7 +2,7 @@
 This repo contains instructions to setup what you need for this course.
 
 ## Anaconda distribution and Jupyter Notebooks
-Python is a general programming language. To use it best for data science and economics, you may want to combine it with (1) [Jupyter notebooks](https://jupyter.org/) and (2) [Python scientific libraries](https://towardsdatascience.com/top-10-python-libraries-for-data-science-cd82294ec266). The most convenient way to install Python (version 3.7), Jupyter notebooks and Python libraries is through [Anaconda distribution](https://www.anaconda.com/). **Please follow the steps below before the beginning of the course**.
+Python is a general programming language. To use it best for data science and economics, you may want to combine it with (1) [Jupyter notebooks](https://jupyter.org/) and (2) [Python scientific libraries](https://towardsdatascience.com/top-10-python-libraries-for-data-science-cd82294ec266). The most convenient way to install Python (version 3.7), Jupyter notebooks and Python libraries altogether is through the [Anaconda distribution](https://www.anaconda.com/). **Please follow the steps below before the beginning of the course**.
 
 - **Step 1**. Download Anaconda [here](https://www.anaconda.com/distribution/).
 - **Step 2**. Launch Anaconda and select Jupyter notebook or Jupyterlab.
