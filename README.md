@@ -7,6 +7,8 @@ Python is a general programming language. To use it best for data science and ec
 - **Step 1**. Download Anaconda [here](https://www.anaconda.com/distribution/).
 - **Step 2**. Launch Anaconda and select Jupyter notebook or Jupyterlab.
 ![](/images/step1.png)
+
+After launching Jupyter notebooks, a web interface will launch that hosts a folder environment. There you find x, y, z. You can launch a new notebook by clicking on "New" in the right top corner.
 This is how a notebook looks like.
 ![](/images/step2.png)
 
